@@ -1,0 +1,19 @@
+.tabla {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 30px; 
+    width: 80%; 
+    font-size: 18px; 
+    border-collapse: collapse;
+}
+.tabla th {
+    background-color: #404040; 
+    color: black; 
+}
+.tabla td {
+    background-color: white;
+    padding: 12px 20px; 
+    border: 1px solid black;
+}
